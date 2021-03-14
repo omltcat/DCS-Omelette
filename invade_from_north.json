@@ -1,0 +1,10 @@
+{
+  "name": "Caucasus - Invade From North",
+  "theater": "Caucasus",
+  "authors": "Omelette",
+  "description": "<p>A medium sized theater with bases along the coast of the Black Sea.</p>",
+  "recommended_player_faction": "GTRC",
+  "recommended_enemy_faction": "OPFOR",
+  "miz": "invade_from_north.miz",
+  "performance": 2
+}
