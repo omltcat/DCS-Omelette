@@ -199,9 +199,9 @@ NavyFormat = {
 WeaponFormat = {
 --[distance]		= {format ,alignment, color_blending_k, opacity, shift_in_pixels_x, shift_in_pixels_y}
 [5]	    = EMPTY,
-[4630]	= {weapon_symbol_near ..NAME_DISTANCE			,"LeftBottom"	,0.75	, 0.7	, -3	, 0},
-[13890]	= {weapon_symbol_far  ..DISTANCE				,"LeftBottom"	,0.75	, 0.5	, -3	, 0},
-[18520]	= {weapon_symbol_far							,"LeftBottom"	,0.25	, 0.25	, -3	, 0},
+[4630]	= {weapon_symbol_near ..NAME_DISTANCE           ,"LeftBottom"	,0.75	, 0.7	, -3	, 0},
+[13890]	= {weapon_symbol_far  ..DISTANCE                ,"LeftBottom"	,0.75	, 0.5	, -3	, 0},
+[18520]	= {weapon_symbol_far                            ,"LeftBottom"	,0.25	, 0.25	, -3	, 0},
 }
 
 end
