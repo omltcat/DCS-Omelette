@@ -35,8 +35,8 @@ programs[ProgramNames.MAN_1]["cycle"] = 2
 programs[ProgramNames.MAN_2] = {}
 programs[ProgramNames.MAN_2]["chaff"] = 0
 programs[ProgramNames.MAN_2]["flare"] = 1
-programs[ProgramNames.MAN_2]["intv"]  = 0.1
-programs[ProgramNames.MAN_2]["cycle"] = 2
+programs[ProgramNames.MAN_2]["intv"]  = 0.25
+programs[ProgramNames.MAN_2]["cycle"] = 4
 
 -- MAN 3
 programs[ProgramNames.MAN_3] = {}
