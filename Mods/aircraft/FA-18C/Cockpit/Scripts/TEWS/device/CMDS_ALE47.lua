@@ -28,8 +28,8 @@ programs = {}
 programs[ProgramNames.MAN_1] = {}
 programs[ProgramNames.MAN_1]["chaff"] = 0
 programs[ProgramNames.MAN_1]["flare"] = 1
-programs[ProgramNames.MAN_1]["intv"]  = 0.25
-programs[ProgramNames.MAN_1]["cycle"] = 4
+programs[ProgramNames.MAN_1]["intv"]  = 0.1
+programs[ProgramNames.MAN_1]["cycle"] = 2
 
 -- MAN 2
 programs[ProgramNames.MAN_2] = {}
