@@ -47,7 +47,7 @@
 #### F/A-18C
 文件：`Mods/aircraft/FA-18C/Cockpit/Scripts/TEWS/device/CMDS_ALE47.lua`
 - 在座舱内打开干扰弹布撒器到中间挡位（不要调到Bypass)
-- 等待自检结束，在EW界面中，选择上方`ALE-47`，下方点击 `MODE`调整到 `MAN1`
+- 等待自检结束，在EW界面中，选择上方 `ALE-47`，下方点击 `MODE`调整到 `MAN1`
    - `布撒按钮 - 前` 每次释放一发箔条，实际使用 `MAN_5` 程序
    - `布撒按钮 - 后` 每次释放两发热诱，实际使用 `MAN_1` 程序
 -  在 `CMDS_ALE47.lua` 中可修改上述程序
