@@ -4,6 +4,7 @@
 
 ## 大框标签 
 文件位置：`Config/View/Labels.lua`
+
 ![1海里内](https://i0.hdslb.com/bfs/album/c7019588ad4bd3598d86dd3f279da0c4cdb08295.png)
 ![1~10海里](https://i0.hdslb.com/bfs/album/d7bf32692651a2d8d1be9b4f3e2e0e97aab9a032.png)
 
@@ -27,7 +28,7 @@
 文件均放入游戏安装目录
 
 ### F-14前座使用后座功能（如干扰弹）
-文件：`Mods/aircraft/F14/Input/F-14B-Pilot/`
+文件位置：`Mods/aircraft/F14/Input/F-14B-Pilot/`
 - 之后F-14前座也可绑定部分原本后座才有的键位，比如蛋卷绑了
   - `AN/ALE-39 箔条 单发` `AN/ALE-39 红外干扰弹 单发`
   - `TCS 视场 窄` `TCS 视场 窄`
@@ -35,7 +36,7 @@
     - 注意：可以选用轴或键的后座功能，在前座必须用轴，否则会被后座的轴覆盖导致无效
     
 ### F-15C启用尾钩
-文件：`Mods/aircraft/Flaming Cliffs/Input/f-15c/`
+文件位置：`Mods/aircraft/Flaming Cliffs/Input/f-15c/`
 - 之后Su-33的尾钩键位会出现在F-15C上，可供绑定
 - 注意F-15起落架脆的一批，降航母不能学海军砸！！！
     
@@ -43,14 +44,14 @@
 - 将机型对应干扰弹文件放入游戏安装目录
 - 与在飞机座舱里编辑干扰弹释放程序效果相同，只是改过文件之后不用每次进飞机都调一遍
 #### F-16C
-文件：`Mods/aircraft/F-16C/Cockpit/Scripts/EWS/CMDS/device/CMDS_ALE47.lua`
+文件位置：`Mods/aircraft/F-16C/Cockpit/Scripts/EWS/CMDS/device/CMDS_ALE47.lua`
 - 在座舱内打开干扰弹布撒器，释放模式拧到 `MAN`（手动释放）
    - `对抗管理开关 - 前` 每次释放一发箔条，实际使用 `MAN_1` 程序
    - `箔条/红外释放按钮` 每次释放两发热诱，实际使用 `MAN_5`（紧急释放）程序（可以用这个键替换HOTAS上的`对抗管理开关 - 后`）
 -  在 `CMDS_ALE47.lua` 中可修改上述程序
 
 #### F/A-18C
-文件：`Mods/aircraft/FA-18C/Cockpit/Scripts/TEWS/device/CMDS_ALE47.lua`
+文件位置：`Mods/aircraft/FA-18C/Cockpit/Scripts/TEWS/device/CMDS_ALE47.lua`
 - 在座舱内打开干扰弹布撒器到中间挡位（不要调到Bypass)
 - 等待自检结束，在EW界面中，选择上方 `ALE-47`，下方点击 `MODE` 调整到 `MAN1`
    - `布撒按钮 - 前` 每次释放一发箔条，实际使用 `MAN_5` 程序
