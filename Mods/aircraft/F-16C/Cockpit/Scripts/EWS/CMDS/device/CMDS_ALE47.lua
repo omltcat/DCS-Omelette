@@ -99,8 +99,8 @@ programs[ProgramNames.MAN_5] = {
 	flare = {
 		burstQty	= 1,
 		burstIntv	= 0.05,
-		salvoQty	= 1,
-		salvoIntv	= 0.75,
+		salvoQty	= 2,
+		salvoIntv	= 0.25,
 	},
 }
 
