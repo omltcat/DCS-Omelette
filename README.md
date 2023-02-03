@@ -6,7 +6,6 @@
 文件位置：`Config/View/Labels.lua`
 
 ![1海里内](https://i0.hdslb.com/bfs/album/c7019588ad4bd3598d86dd3f279da0c4cdb08295.png)
-![1~10海里](https://i0.hdslb.com/bfs/album/d7bf32692651a2d8d1be9b4f3e2e0e97aab9a032.png)
 
 
 ### 标签特性
