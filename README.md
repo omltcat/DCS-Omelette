@@ -3,7 +3,11 @@
 - 每次DCS更新后，所有修改过的文件都会移入游戏安装根目录下的 `_backup.xxx` 文件夹中，需要手动复制回去
 
 ## 大框标签 
-文件：`Config/View/Labels.lua`
+文件位置：`Config/View/Labels.lua`
+![1海里内](https://i0.hdslb.com/bfs/album/c7019588ad4bd3598d86dd3f279da0c4cdb08295.png)
+![1~10海里](https://i0.hdslb.com/bfs/album/d7bf32692651a2d8d1be9b4f3e2e0e97aab9a032.png)
+
+
 ### 标签特性
 - 各类标签总体放大，不再是一两个像素点
 - 飞机标签1海里内为大方框,1~10海里为小方框
